@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "cascadia code:pixelsize=14:antialias=true:autohint=true";
-static int borderpx = 3;
+static int borderpx = 1;
 
 /*
  * What program is execed by st depends of these precedence rules:
